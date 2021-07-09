@@ -7,7 +7,7 @@ resources:
       params:
           weight: -100 # Optional weighting for a specific image in this project folder
 ---
-[jake@realtaxcpa.com](mailto:jake@realtaxcpa.com) | [Scheudle a Call](google.com) | [Fill out an Interest Form](google.com)
+[jake@realtaxcpa.com](mailto:jake@realtaxcpa.com) | [Scheudle a Call](https://calendly.com/realtax-cpa/15min) | [Fill out an Interest Form](https://form.jotform.com/210720035675045)
 
 <!---
 Jake is a CPA from Birmingham Alabama with more than 6 years of experience working with clients in the real estate industry. He started REALTAX CPA in 2019 with the goal of helping a few friends and family members save taxes on their real estate investments. Word of mouth referrals quickly grew the business to what it is today.
