@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Services  on </title>
+    <link>http://realtaxcpa.com/projects/</link>
+    <description>Recent content in  Services  on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 08 Jul 2021 10:16:46 -0500</lastBuildDate><atom:link href="http://realtaxcpa.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tax Planning &amp; Preparation</title>
+      <link>http://realtaxcpa.com/projects/tax-planning-preparation/</link>
+      <pubDate>Thu, 08 Jul 2021 10:19:46 -0500</pubDate>
+      
+      <guid>http://realtaxcpa.com/projects/tax-planning-preparation/</guid>
+      <description>  We work with our clients year round to reduce their tax liability.
+  Receive a customized tax strategy and action steps to take throughout the year
+  Work with a firm that is focused on the needs of real estate agents &amp;amp; investors.
+  Schedule a call or fill out an Interest Form so we can get started on your tax plan today.
+  </description>
+    </item>
+    
+    <item>
+      <title>Bookkeeping &amp; Consulting</title>
+      <link>http://realtaxcpa.com/projects/bookkeeping-consulting/</link>
+      <pubDate>Thu, 08 Jul 2021 10:31:33 -0500</pubDate>
+      
+      <guid>http://realtaxcpa.com/projects/bookkeeping-consulting/</guid>
+      <description>  Start to finish entity structure and formation services.
+  Maximize S-Corp savings for real estate agents, and home flipping activities.
+  Partnership structure and formation for real estate investors.
+  Full service bookkeeping &amp;amp; payroll. Let us run your books, so you can run your business.
+  </description>
+    </item>
+    
+  </channel>
+</rss>
