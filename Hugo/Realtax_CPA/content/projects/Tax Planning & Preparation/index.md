@@ -4,7 +4,7 @@ date: 2021-07-08T10:19:46-05:00
 weight: 1 # Order in which to show this project on the home page
 external_link: "" # Optional external link instead of modal
 resources:
-    - src: tax prep 2.jpg
+    - src: tax-prep2.jpg
       params:
           weight: -100 # Optional weighting for a specific image in this project folder
 draft: false
