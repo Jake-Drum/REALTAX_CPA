@@ -2,7 +2,7 @@
 title: "Bookkeeping & Consulting" # Title of your project
 date: 2021-07-08T10:31:33-05:00
 weight: 2 # Order in which to show this project on the home page
-external_link: "/Bookkeeping-Consulting" # Optional external link instead of modal
+# external_link: "" # Optional external link instead of modal
 resources:
     - src: QB-pc-screen.jpg
       params:
